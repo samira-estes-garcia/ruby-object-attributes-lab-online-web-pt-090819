@@ -1,5 +1,7 @@
 class Person 
   
   def name=(name)
-  
-end
+    @name=name
+  end
+
+end       
