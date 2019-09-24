@@ -5,6 +5,7 @@ class Person
   end
 
 def @name
-  
+  @name
+  en d
 
 end       
